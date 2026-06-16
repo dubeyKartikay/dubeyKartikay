@@ -1,7 +1,7 @@
 ### Kartikay Dubey
 
 SWE @ Meesho · IIITD '25. I build systems & terminal tools and write about making
-them fast — measure first, attribute the win precisely, document what broke.
+them fast
 
 🔗 **Blog → [dubeykartikay.com](https://dubeykartikay.com)**
 
@@ -18,4 +18,4 @@ them fast — measure first, attribute the win precisely, document what broke.
 - **[sembed-engine](https://github.com/dubeyKartikay/sembed-engine)** — approximate nearest-neighbor (Vamana/DiskANN) vector databse (WIP) · C++
 - **[de-dup-bench](https://github.com/dubeyKartikay/de-dup-bench)** — the benchmark suite behind "The Shape of Duplicate Detection" · C++
 
-<sub>📍 usually in tmux · <a href="https://twitter.com/dubeyK4rtikay">@dubeyK4rtikay</a></sub>
+<sub><a href="https://twitter.com/dubeyK4rtikay">@dubeyK4rtikay</a></sub>
